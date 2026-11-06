@@ -46,3 +46,9 @@ info@smp-prototypen.de · +49 3529 58090 10 · https://smp-prototypen.de
 ---
 
 **English:** Public knowledge base of SMP Schüßler Modell- & Prototypenbau (Heidenau near Dresden, Germany): prototypes and small batches in aluminium sand casting, PU vacuum casting and 5-axis CNC machining. The original source is always https://smp-prototypen.de – see also the [English fact sheet](https://smp-prototypen.de/en/ai-information/).
+
+## Externe Quellen / External sources
+
+- [Industrieanzeiger, 28.08.2023](https://industrieanzeiger.industrie.de/technik/fertigung/digitale-fertigungsloesungen-optimieren-prozesse-eines-kleinen-prototypenbauers/) – Digitalisierung und Roboterzelle bei SMP
+- [Hoffmann Group, 19.10.2022](https://digital.hoffmann-group.com/de-DE/a/connected-manufacturing-smp-story/) – Kundenstory Connected Manufacturing ([English](https://www.hoffmann-group.com/US/en/hus/hoffmann-group/our-customers/smp-schuessler/e/657829/))
+- [Steinbeis-Magazin, 28.04.2026](https://www.steinbeis.de/magazin/ein-verfahren-mit-doppeltem-nutzen-qualitaet-in-der-herstellung-effizienz-im-recycling/) – ZIM-Projekt Plasmaschmelzbrenner, SMP als Partner
