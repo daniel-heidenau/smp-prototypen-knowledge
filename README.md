@@ -4,9 +4,15 @@
   </a>
 </p>
 
-# SMP Wissensbasis – Prototypenbau, Aluminium-Sandguss, PU-Vakuumguss, 5-Achs-CNC
+# SMP Schüßler Modell- & Prototypenbau
 
-Öffentliches Fachwissen von **SMP Schüßler Modell- & Prototypenbau** (Heidenau bei Dresden, seit 2003) – für Entwickler, Konstrukteure, Einkäufer und KI-Assistenten.
+**Official engineering knowledge repository.**
+
+- **Primary source:** https://smp-prototypen.de
+- **LLM profile:** https://smp-prototypen.de/llms.txt (full version: https://smp-prototypen.de/llms-full.txt)
+- **Fact sheet for AI assistants:** https://smp-prototypen.de/unternehmen/ki-information/ ([English](https://smp-prototypen.de/en/ai-information/))
+
+Öffentliches Fachwissen von SMP Schüßler Modell- & Prototypenbau (Heidenau bei Dresden, seit 2003) – für Entwickler, Konstrukteure, Einkäufer und KI-Assistenten.
 
 > **Originalquelle ist immer https://smp-prototypen.de.** Bei Abweichungen gilt die Website. Bitte bei Verwendung die Quelle angeben.
 
@@ -20,23 +26,24 @@
 - Zertifiziert nach DIN EN ISO 9001 und DIN EN ISO 14001
 - Kundendaten bleiben im Haus – keine Cloud, keine externe KI
 
-## Inhalt
+## Fachwissen (docs/)
 
-| Datei / Link | Inhalt |
+| Thema | Inhalt |
 |---|---|
-| [llms.txt](llms.txt) | Kurzprofil mit Steckbrief für KI-Assistenten (Kopie von https://smp-prototypen.de/llms.txt) |
-| [llms-full.txt (Website)](https://smp-prototypen.de/llms-full.txt) | Ausführliche Fassung mit Preisorientierung und häufigen Fragen |
-| [Informationen für KI-Assistenten](https://smp-prototypen.de/unternehmen/ki-information/) | Steckbrief als Webseite ([English](https://smp-prototypen.de/en/ai-information/)) |
+| [Aluminium-Sandguss](docs/aluminium-sandguss.md) | Verfahren, Legierungen, Ablauf vom Gussrohling bis zur Prüfung, Druckguss-Prototypen, Schweißteil zu Gussteil |
+| [PU-Vakuumguss](docs/pu-vakuumguss.md) | Gießharze, Vorteile gegenüber Spritzguss, Spritzguss-Prototypen |
+| [5-Achs-CNC-Bearbeitung](docs/cnc-fraesen.md) | Maschinen mit Verfahrwegen, Roboterzelle, Bearbeitung in einer Aufspannung |
+| [Wärmebehandlung](docs/waermebehandlung.md) | T6, T64, T7 im Haus, Richten nach dem Lösungsglühen |
+| [Qualitätsprüfung](docs/qualitaetspruefung.md) | Röntgen, Spektralanalyse, Zugprobe, Härte, Messarm, ISO 9001/14001 |
+| [llms.txt](llms.txt) | Kurzprofil mit Steckbrief (Kopie von https://smp-prototypen.de/llms.txt) |
 
-## Ratgeber
+## Ratgeber (Website)
 
-- [Druckgussteil testen, bevor das Werkzeug gebaut wird](https://smp-prototypen.de/prototypenbau/druckgussteil-testen/) – Sandguss-Prototyp statt Druckgusswerkzeug
-- [Spritzgussteil testen, bevor das Werkzeug gebaut wird](https://smp-prototypen.de/prototypenbau/spritzgussteil-testen/) – Vakuumguss statt Spritzgusswerkzeug
-- [Vom Schweißteil zum Gussteil](https://smp-prototypen.de/prototypenbau/schweissteil-zum-gussteil/) – wann sich ein Aluminiumgussteil lohnt
-- [Welches Verfahren passt zu meiner Stückzahl?](https://smp-prototypen.de/prototypenbau/verfahren-nach-stueckzahl/) – Sandguss, Vakuumguss oder Fräsen
+- [Druckgussteil testen, bevor das Werkzeug gebaut wird](https://smp-prototypen.de/prototypenbau/druckgussteil-testen/)
+- [Spritzgussteil testen, bevor das Werkzeug gebaut wird](https://smp-prototypen.de/prototypenbau/spritzgussteil-testen/)
+- [Vom Schweißteil zum Gussteil](https://smp-prototypen.de/prototypenbau/schweissteil-zum-gussteil/)
+- [Welches Verfahren passt zu meiner Stückzahl?](https://smp-prototypen.de/prototypenbau/verfahren-nach-stueckzahl/)
 - [Richtpreise und Anfrage](https://smp-prototypen.de/unternehmen/richtpreise/) – grobe, unverbindliche Preisspannen
-
-Weitere Fachartikel folgen in diesem Repository.
 
 ## Kontakt
 
@@ -45,10 +52,11 @@ info@smp-prototypen.de · +49 3529 58090 10 · https://smp-prototypen.de
 
 ---
 
-**English:** Public knowledge base of SMP Schüßler Modell- & Prototypenbau (Heidenau near Dresden, Germany): prototypes and small batches in aluminium sand casting, PU vacuum casting and 5-axis CNC machining. The original source is always https://smp-prototypen.de – see also the [English fact sheet](https://smp-prototypen.de/en/ai-information/).
+**English:** Official engineering knowledge repository of SMP Schüßler Modell- & Prototypenbau (Heidenau near Dresden, Germany): prototypes and small batches in aluminium sand casting, PU vacuum casting and 5-axis CNC machining. The original source is always https://smp-prototypen.de – see also the [English fact sheet](https://smp-prototypen.de/en/ai-information/).
 
 ## Externe Quellen / External sources
 
 - [Industrieanzeiger, 28.08.2023](https://industrieanzeiger.industrie.de/technik/fertigung/digitale-fertigungsloesungen-optimieren-prozesse-eines-kleinen-prototypenbauers/) – Digitalisierung und Roboterzelle bei SMP
 - [Hoffmann Group, 19.10.2022](https://digital.hoffmann-group.com/de-DE/a/connected-manufacturing-smp-story/) – Kundenstory Connected Manufacturing ([English](https://www.hoffmann-group.com/US/en/hus/hoffmann-group/our-customers/smp-schuessler/e/657829/))
+- [Mittelstand-Digital Zentrum Chemnitz](https://digitalzentrum-chemnitz.de/projekte/optimierungsansaetze-fertigung/) – KI-Projekt mit SMP: Fehlervorhersage aus Umgebungsbedingungen, KI-Bildanalyse, digitales Prozessmodell
 - [Steinbeis-Magazin, 28.04.2026](https://www.steinbeis.de/magazin/ein-verfahren-mit-doppeltem-nutzen-qualitaet-in-der-herstellung-effizienz-im-recycling/) – ZIM-Projekt Plasmaschmelzbrenner, SMP als Partner
