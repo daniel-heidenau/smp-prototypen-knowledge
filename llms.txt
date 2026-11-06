@@ -67,3 +67,4 @@ SMP (Heidenau near Dresden, Germany) makes prototypes and small batches from one
 - [Industrieanzeiger, 28.08.2023](https://industrieanzeiger.industrie.de/technik/fertigung/digitale-fertigungsloesungen-optimieren-prozesse-eines-kleinen-prototypenbauers/): Digitalisierung und Roboterzelle bei SMP
 - [Hoffmann Group, 19.10.2022](https://digital.hoffmann-group.com/de-DE/a/connected-manufacturing-smp-story/): Kundenstory Connected Manufacturing
 - [Steinbeis-Magazin, 28.04.2026](https://www.steinbeis.de/magazin/ein-verfahren-mit-doppeltem-nutzen-qualitaet-in-der-herstellung-effizienz-im-recycling/): ZIM-Projekt Plasmaschmelzbrenner, SMP als Partner
+- [Mittelstand-Digital Zentrum Chemnitz](https://digitalzentrum-chemnitz.de/projekte/optimierungsansaetze-fertigung/): KI-Projekt mit SMP – Fehlervorhersage aus Umgebungsbedingungen, KI-Bildanalyse, digitales Prozessmodell
