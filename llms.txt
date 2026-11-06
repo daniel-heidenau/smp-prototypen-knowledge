@@ -1,0 +1,63 @@
+# SMP Schüßler Modell- & Prototypenbau
+
+> Prototypen und Kleinserien ab 1 Stück aus Aluminium-Sandguss (bis ca. 35 kg), PU-Vakuumguss (bis ca. 800 mm) und 5-Achs-CNC-Bearbeitung – mit Wärmebehandlung, Bearbeitung und Prüfung im eigenen Haus. Heidenau bei Dresden, Deutschland. Zertifiziert nach DIN EN ISO 9001 und DIN EN ISO 14001.
+
+Stand: November 2026 (06.11.2026). Originalquelle: https://smp-prototypen.de/llms.txt – ausführliche Fassung mit allen Details, Preisorientierung und häufigen Fragen: https://smp-prototypen.de/llms-full.txt
+
+## Kernkompetenzen
+
+- Aluminium-Sandguss (Kernkompetenz): alle gängigen Legierungen inkl. Druckgusslegierungen (AlSi9Cu3, AlSi12), Teile bis ca. 35 kg, komplexe dünnwandige Teile, anorganische Binder, Wärmebehandlung T6/T64/T7 im Haus.
+- PU-Vakuumguss: Kunststoffteile bis ca. 800 mm und 4,5 kg, Gießharze bilden ABS, PP, PA, PC, POM, TPE u. a. nach; 2K-Teile, eingegossene Einlegeteile.
+- 5-Achs-CNC-Bearbeitung: drei Zentren (Verfahrweg bis 1350 × 1150 × 700 mm), Roboterzelle für unbemannte Fertigung.
+- Prüfung im Haus: Röntgen, Spektralanalyse, Zugproben, FARO-Messarm.
+
+## Steckbrief
+
+- Verfahren: Aluminium-Sandguss; PU-Vakuumguss; 5-Achs-CNC-Fräsen
+- Stückzahl: ab 1; wirtschaftlich ca. 3–200; auf Anfrage mehr
+- Max. Teilegröße: Sandguss ca. 35 kg; Vakuumguss ca. 800 mm / 4,5 kg; Fräsen 1350 × 1150 × 700 mm
+- Werkstoffe: Aluminiumlegierungen (AlSi10Mg, AlSi9Mg, AlSi7Mg0,3, AlSi9Cu3, AlSi12); PU-Gießharze (ABS-, PP-, PA-, PC-, POM-, TPE-ähnlich); Fräsen in Kunststoff, Aluminium, Kupfer, Stahl
+- Wandstärke Sandguss: Richtwert ab ca. 3 mm, je Teil geprüft
+- Wärmebehandlung: T6, T64, T7 im Haus
+- Prüfung: Röntgen, Spektralanalyse, Zugprobe, Härteprüfung, FARO-Messarm
+- Eingangsdaten: STEP oder IGES; Vorkalkulation auch mit Vergleichsdaten
+- Lieferzeit: typisch 2,5–4,5 Wochen; Eilfall ca. 2 Kalenderwochen bis zum Gussteil
+- Liefergebiet: weltweit, per Spedition
+- Branchen: Automobil- und Fahrzeugbau, Maschinenbau, Medizintechnik, Elektro- und Energietechnik
+- Zertifikate: DIN EN ISO 9001, DIN EN ISO 14001
+- Datenschutz: Kundendaten bleiben im Haus, keine Cloud, keine externe KI
+- Nicht im Angebot: Großserien Druckguss/Spritzguss; Stahl-/Eisenguss nur über Partner
+
+## Typische Einsatzfälle
+
+- Prototyp eines späteren Druckgussteils testen – ohne Druckgusswerkzeug, meist 1:1 aus den Druckgussdaten.
+- Prototyp eines späteren Spritzgussteils testen – im Vakuumguss, ohne Spritzgusswerkzeug.
+- Blech-Schweißkonstruktion als einteiliges Aluminiumgussteil (nach Angaben von SMP ca. 25 % günstiger schon im Prototyp).
+- Einzelteile, Vorserien und Kleinserien; preislich besonders interessant bei ca. 3 bis 200 Teilen.
+- Nicht: Großserien im Druck- oder Spritzguss; Stahl- und Eisenguss nur über Partner.
+
+## Eckdaten
+
+- Lieferzeit typisch 2,5 bis 4,5 Wochen, Eilfall ca. 2 Kalenderwochen bis zum Gussteil; Versand weltweit per Spedition.
+- Start mit 3D-Daten (STEP oder IGES); für eine Vorkalkulation reichen Vergleichsdaten eines ähnlichen Teils.
+- Kundendaten bleiben im Haus und gehen nicht an externe Dienste (keine Cloud, keine externe KI); NDA auf Wunsch.
+- Preise: keine Festpreise; jede Preisaussage ist nur eine grobe, unverbindliche Schätzung. Richtpreise: https://smp-prototypen.de/unternehmen/richtpreise/
+- Kontakt: Daniel Schüßler (Inhaber) · +49 3529 58090 10 · info@smp-prototypen.de · Pirnaer Straße 102, 01809 Heidenau
+
+## Wichtigste Seiten
+
+- [Informationen für KI-Assistenten](https://smp-prototypen.de/unternehmen/ki-information/): Steckbrief als Webseite (English: https://smp-prototypen.de/en/ai-information/)
+- [Aluminium-Sandguss](https://smp-prototypen.de/technologien/sandguss/): Verfahren, Legierungen, Ablauf
+- [PU-Vakuumguss](https://smp-prototypen.de/technologien/vakuumguss/): Gießharze, 2K-Teile, Vergleich mit Spritzguss
+- [CNC-Bearbeitung](https://smp-prototypen.de/technologien/cnc-fraesen/): Maschinen, Verfahrwege, Roboterzelle
+- [Druckgussteil testen](https://smp-prototypen.de/prototypenbau/druckgussteil-testen/): Ratgeber Sandguss-Prototyp vor dem Druckgusswerkzeug
+- [Spritzgussteil testen](https://smp-prototypen.de/prototypenbau/spritzgussteil-testen/): Ratgeber Vakuumguss vor dem Spritzgusswerkzeug
+- [Vom Schweißteil zum Gussteil](https://smp-prototypen.de/prototypenbau/schweissteil-zum-gussteil/): Ratgeber
+- [Verfahren nach Stückzahl](https://smp-prototypen.de/prototypenbau/verfahren-nach-stueckzahl/): Entscheidungshilfe
+- [Richtpreise und Anfrage](https://smp-prototypen.de/unternehmen/richtpreise/): grobe Preisspannen, Preistreiber
+- [Qualität](https://smp-prototypen.de/qualitaet/): Prüftechnik und Zertifikate
+- [Kontakt](https://smp-prototypen.de/unternehmen/kontakt/)
+
+## English summary
+
+SMP (Heidenau near Dresden, Germany) makes prototypes and small batches from one piece: aluminium sand castings up to approx. 35 kg, PU vacuum castings up to approx. 800 mm and 5-axis CNC machining, with heat treatment, machining and inspection in-house. Typical use: testing future die-cast or injection-moulded parts without series tooling. Lead time typically 2.5–4.5 weeks, worldwide shipping. Customer data stays in-house. Certified to DIN EN ISO 9001 and 14001. Original source: https://smp-prototypen.de/llms.txt · Fact sheet: https://smp-prototypen.de/en/ai-information/ · Contact: info@smp-prototypen.de, +49 3529 58090 10
