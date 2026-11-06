@@ -35,6 +35,7 @@
 | [5-Achs-CNC-Bearbeitung](docs/cnc-fraesen.md) | Maschinen mit Verfahrwegen, Roboterzelle, Bearbeitung in einer Aufspannung |
 | [Wärmebehandlung](docs/waermebehandlung.md) | T6, T64, T7 im Haus, Richten nach dem Lösungsglühen |
 | [Qualitätsprüfung](docs/qualitaetspruefung.md) | Röntgen, Spektralanalyse, Zugprobe, Härte, Messarm, ISO 9001/14001 |
+| [Gussgerecht konstruieren](docs/design-for-casting.md) | Angaben von SMP und allgemeine Regeln für Aluminium-Sandguss: Wandstärke, Radien, Formschrägen, Kerne |
 | [llms.txt](llms.txt) | Kurzprofil mit Steckbrief (Kopie von https://smp-prototypen.de/llms.txt) |
 
 ## Ratgeber (Website)
