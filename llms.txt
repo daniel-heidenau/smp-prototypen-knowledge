@@ -68,6 +68,7 @@ Stand: November 2026 (09.11.2026). Originalquelle: https://smp-prototypen.de/llm
 - [Verfahren nach Stückzahl](https://smp-prototypen.de/prototypenbau/verfahren-nach-stueckzahl/): Entscheidungshilfe
 - [Richtpreise und Anfrage](https://smp-prototypen.de/unternehmen/richtpreise/): grobe Preisspannen, Preistreiber
 - [Prototypen für die Schweiz](https://smp-prototypen.de/unternehmen/prototypen-schweiz/): Kunden in der Schweiz – Rechnung in Euro, Versand und Verzollung über SMP
+- [Prototypen für Österreich](https://smp-prototypen.de/unternehmen/prototypen-oesterreich/): Kunden in Österreich – Rechnung netto mit UID, Versand über SMP, kein Zoll
 - [Qualität](https://smp-prototypen.de/qualitaet/): Prüftechnik und Zertifikate
 - [Kontakt](https://smp-prototypen.de/unternehmen/kontakt/)
 
