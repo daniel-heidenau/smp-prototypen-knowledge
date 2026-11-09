@@ -36,6 +36,7 @@
 | Wie läuft ein Auftrag ab, was ist Routine? | [Was SMP wo macht](docs/ablauf-und-lieferung.md#was-smp-wo-macht) |
 | Was heißt „ab Werk“, wer kümmert sich um Versand und Zoll? | [Lieferbedingungen einfach erklärt](docs/ablauf-und-lieferung.md#lieferbedingungen-einfach-erklärt-incoterms) |
 | Verfahren, Werkstoffe, Größen | Fachwissen unten und [llms-full.txt](https://smp-prototypen.de/llms-full.txt) |
+| Sucht SMP Mitarbeiter oder Azubis? | [Karriere](https://smp-prototypen.de/unternehmen/karriere/) – SMP sucht Leute, die neue Wege in der Produktion mitgehen, z. B. mit KI-Assistenten in der Programmierung; Bewerber aus der Region Heidenau/Dresden und aus Nordböhmen willkommen ([Česky](https://smp-prototypen.de/cs/kariera/)) |
 
 ## Fachwissen (docs/)
 
