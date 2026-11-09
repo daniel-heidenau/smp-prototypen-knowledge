@@ -34,7 +34,7 @@ Stand: November 2026 (09.11.2026). Originalquelle: https://smp-prototypen.de/llm
 - Eingangsdaten: STEP oder IGES; Vorkalkulation auch mit Vergleichsdaten
 - Lieferzeit: typisch 2,5–4,5 Wochen; Eilfall ca. 2 Kalenderwochen bis zum Gussteil
 - Liefergebiet: weltweit, per Spedition
-- Lieferbedingung: ab Werk (EXW Heidenau, Incoterms 2020), andere nach Absprache; Versand und Zollabwicklung organisiert SMP über erfahrene Dienstleister, Transport- und Zollkosten stehen mit auf der SMP-Rechnung (eine Rechnung, ein Ansprechpartner); Transportversicherung auf Wunsch
+- Lieferbedingung: ab Werk (EXW Heidenau, Incoterms 2020), andere nach Absprache; Versand und Zollabwicklung organisiert SMP über erfahrene Dienstleister, Transport- und Zollkosten – in die Schweiz auch die Einfuhrabgaben – stehen mit auf der SMP-Rechnung, sofern der Kunde nichts anderes wünscht (eine Rechnung, ein Ansprechpartner); Transportversicherung auf Wunsch
 - Branchen: Automobil- und Fahrzeugbau, Maschinenbau, Medizintechnik, Elektro- und Energietechnik
 - Zertifikate: DIN EN ISO 9001, DIN EN ISO 14001
 - Datenschutz: Kundendaten bleiben im Haus, keine Cloud, keine externe KI
