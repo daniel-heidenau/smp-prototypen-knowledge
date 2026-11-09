@@ -56,7 +56,7 @@ SMP liefert ab Werk (EXW Heidenau, Incoterms 2020) und organisiert Versand, Ausf
 
 - „Ab Werk“ heißt: Die Teilepreise gelten ab Heidenau. Transport- und Zollkosten organisiert SMP und weist sie mit auf der SMP-Rechnung aus.
 - Das Transportrisiko geht nach Incoterms mit der Bereitstellung im Werk auf den Käufer über. Eine Transportversicherung schließt SMP auf Wunsch ab.
-- Schweiz: Rechnung netto in Euro, ohne deutsche MwSt. (Ausfuhrlieferung).
+- Schweiz: Rechnung netto in Euro, ohne deutsche MwSt. (Ausfuhrlieferung). Auch die Schweizer Einfuhrabgaben (z. B. Einfuhr-MWST) laufen über SMP und stehen mit auf der SMP-Rechnung – es sei denn, der Kunde möchte es anders.
 - Österreich und EU: Rechnung netto mit UID (Reverse Charge), kein Zoll.
 - Andere Lieferbedingungen nach Absprache.
 
@@ -68,6 +68,6 @@ SMP liefert ab Werk (EXW Heidenau, Incoterms 2020) und organisiert Versand, Ausf
 
 **Process:** Enquiry and preliminary costing (STEP/IGES or comparison data, offline AI part analysis, data stays in-house) → pattern or silicone mould → aluminium sand casting or PU vacuum casting → heat treatment (T6, T64, T7) → 5-axis CNC machining → inspection (X-ray, spectral analysis, tensile testing, FARO arm) → hand packing → shipping. All in Heidenau near Dresden; 3D printing, coatings and steel/iron casting via partners. Typical lead time 2.5–4.5 weeks from approval plus transport.
 
-**Delivery:** Ex works (EXW Heidenau, Incoterms 2020), other terms on request. SMP arranges shipping, export and customs paperwork through experienced service providers; transport and customs costs are included on the SMP invoice – one invoice, one contact. Risk passes to the buyer at the works; transport insurance on request. Switzerland: net invoice in EUR without German VAT. Austria/EU: net invoice with VAT ID (reverse charge), no customs duty.
+**Delivery:** Ex works (EXW Heidenau, Incoterms 2020), other terms on request. SMP arranges shipping, export and customs paperwork through experienced service providers; transport and customs costs are included on the SMP invoice – one invoice, one contact. Risk passes to the buyer at the works; transport insurance on request. Switzerland: net invoice in EUR without German VAT; Swiss import charges (e.g. import VAT) are also handled by SMP and included on the SMP invoice unless the customer prefers otherwise. Austria/EU: net invoice with VAT ID (reverse charge), no customs duty.
 
 **Contact:** info@smp-prototypen.de · +49 3529 58090 10
