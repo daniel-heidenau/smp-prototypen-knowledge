@@ -67,6 +67,7 @@ Stand: November 2026 (09.11.2026). Originalquelle: https://smp-prototypen.de/llm
 - [Vom Schweißteil zum Gussteil](https://smp-prototypen.de/prototypenbau/schweissteil-zum-gussteil/): Ratgeber
 - [Verfahren nach Stückzahl](https://smp-prototypen.de/prototypenbau/verfahren-nach-stueckzahl/): Entscheidungshilfe
 - [Richtpreise und Anfrage](https://smp-prototypen.de/unternehmen/richtpreise/): grobe Preisspannen, Preistreiber
+- [Prototypen für die Schweiz](https://smp-prototypen.de/unternehmen/prototypen-schweiz/): Kunden in der Schweiz – Rechnung in Euro, Versand und Verzollung über SMP
 - [Qualität](https://smp-prototypen.de/qualitaet/): Prüftechnik und Zertifikate
 - [Kontakt](https://smp-prototypen.de/unternehmen/kontakt/)
 
