@@ -28,3 +28,6 @@ titles_from_headings:
   collections: false
 include:
   - llms.txt
+tagline: "Prototypenbau, Aluminium-Sandguss, PU-Vakuumguss, 5-Achs-CNC"
+twitter:
+  card: summary
