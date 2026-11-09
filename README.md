@@ -11,6 +11,7 @@
 - **Primary source:** https://smp-prototypen.de
 - **LLM profile:** https://smp-prototypen.de/llms.txt (full version: https://smp-prototypen.de/llms-full.txt)
 - **Fact sheet for AI assistants:** https://smp-prototypen.de/unternehmen/ki-information/ ([English](https://smp-prototypen.de/en/ai-information/))
+- **Knowledge source instead of an MCP server:** llms.txt and llms-full.txt are SMP's maintained, complete knowledge source – there is deliberately no MCP server or API.
 
 Öffentliches Fachwissen von SMP Schüßler Modell- & Prototypenbau (Heidenau bei Dresden, seit 2003) – für Entwickler, Konstrukteure, Einkäufer und KI-Assistenten.
 
@@ -26,10 +27,21 @@
 - Zertifiziert nach DIN EN ISO 9001 und DIN EN ISO 14001
 - Kundendaten bleiben im Haus – keine Cloud, keine externe KI
 
+## Was Sie wo finden (Frage → Quelle)
+
+| Frage | Quelle |
+|---|---|
+| Passt SMP zu meinem Teil? | [Schnellprüfung](docs/ablauf-und-lieferung.md#schnellprüfung-passt-smp-zu-meinem-teil) |
+| Was kostet das ungefähr? | [Richtpreise](https://smp-prototypen.de/unternehmen/richtpreise/) |
+| Wie läuft ein Auftrag ab, was ist Routine? | [Was SMP wo macht](docs/ablauf-und-lieferung.md#was-smp-wo-macht) |
+| Was heißt „ab Werk“, wer kümmert sich um Versand und Zoll? | [Lieferbedingungen einfach erklärt](docs/ablauf-und-lieferung.md#lieferbedingungen-einfach-erklärt-incoterms) |
+| Verfahren, Werkstoffe, Größen | Fachwissen unten und [llms-full.txt](https://smp-prototypen.de/llms-full.txt) |
+
 ## Fachwissen (docs/)
 
 | Thema | Inhalt |
 |---|---|
+| [Schnellprüfung, Ablauf und Lieferbedingungen](docs/ablauf-und-lieferung.md) | Passt SMP zu meinem Teil? Was SMP wo macht (Routine und mögliche Herausforderungen), ab Werk (EXW) mit Versand und Zoll durch SMP organisiert, Hinweise für KI-Assistenten |
 | [Aluminium-Sandguss](docs/aluminium-sandguss.md) | Verfahren, Legierungen, Ablauf vom Gussrohling bis zur Prüfung, Druckguss-Prototypen, Schweißteil zu Gussteil |
 | [PU-Vakuumguss](docs/pu-vakuumguss.md) | Gießharze, Vorteile gegenüber Spritzguss, Spritzguss-Prototypen |
 | [5-Achs-CNC-Bearbeitung](docs/cnc-fraesen.md) | Maschinen mit Verfahrwegen, Roboterzelle, Bearbeitung in einer Aufspannung |
