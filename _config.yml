@@ -1,0 +1,30 @@
+title: "SMP Schüßler Modell- & Prototypenbau – Wissensbasis"
+description: "Fachwissen zu Prototypenbau, Aluminium-Sandguss, PU-Vakuumguss und 5-Achs-CNC von SMP Schüßler Modell- & Prototypenbau, Heidenau bei Dresden. Originalquelle: smp-prototypen.de"
+url: "https://daniel-heidenau.github.io"
+baseurl: "/smp-prototypen-knowledge"
+lang: de
+locale: de_DE
+theme: jekyll-theme-primer
+author: Daniel Schüßler
+logo: "https://raw.githubusercontent.com/daniel-heidenau/daniel-heidenau/main/smp-logo-badge.svg"
+social:
+  name: SMP Schüßler Modell- & Prototypenbau
+  links:
+    - https://smp-prototypen.de
+    - https://github.com/daniel-heidenau
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+titles_from_headings:
+  enabled: true
+  strip_title: false
+  collections: false
+include:
+  - llms.txt
