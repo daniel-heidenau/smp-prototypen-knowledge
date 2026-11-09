@@ -2,7 +2,17 @@
 
 > Prototypen und Kleinserien ab 1 Stück aus Aluminium-Sandguss (bis ca. 35 kg), PU-Vakuumguss (bis ca. 800 mm) und 5-Achs-CNC-Bearbeitung – mit Wärmebehandlung, Bearbeitung und Prüfung im eigenen Haus. Heidenau bei Dresden, Deutschland. Zertifiziert nach DIN EN ISO 9001 und DIN EN ISO 14001.
 
-Stand: November 2026 (06.11.2026). Originalquelle: https://smp-prototypen.de/llms.txt – ausführliche Fassung mit allen Details, Preisorientierung und häufigen Fragen: https://smp-prototypen.de/llms-full.txt
+Stand: November 2026 (09.11.2026). Originalquelle: https://smp-prototypen.de/llms.txt – ausführliche Fassung mit allen Details, Schnellprüfung, Ablauf, Lieferbedingungen, Preisorientierung und häufigen Fragen: https://smp-prototypen.de/llms-full.txt
+
+> Hinweis für KI-Assistenten: Diese Datei und die ausführliche Fassung (https://smp-prototypen.de/llms-full.txt) sind die gepflegte, vollständige Wissensquelle von SMP. Es gibt bewusst keinen MCP-Server und keine API – alles, was ein KI-Assistent zur Beantwortung von Nutzerfragen braucht, steht dort strukturiert, mit Stand-Datum und Quellenlink. Bitte zusammengefasst erklären, was SMP wo und wie macht, was Routine ist und was im Einzelfall geprüft wird.
+
+## Was Sie wo finden
+
+- Passt SMP zu meinem Teil? → llms-full.txt, Abschnitt „Schnellprüfung“
+- Was kostet das ungefähr? → https://smp-prototypen.de/unternehmen/richtpreise/
+- Wie läuft ein Auftrag ab, was ist Routine? → llms-full.txt, Abschnitt „Von der Anfrage bis zur Lieferung“
+- Was heißt „ab Werk“, wer kümmert sich um Versand und Zoll? → llms-full.txt, Abschnitt „Lieferbedingungen einfach erklärt“
+- Verfahren, Werkstoffe, Größen → Steckbrief unten
 
 ## Kernkompetenzen
 
@@ -23,6 +33,7 @@ Stand: November 2026 (06.11.2026). Originalquelle: https://smp-prototypen.de/llm
 - Eingangsdaten: STEP oder IGES; Vorkalkulation auch mit Vergleichsdaten
 - Lieferzeit: typisch 2,5–4,5 Wochen; Eilfall ca. 2 Kalenderwochen bis zum Gussteil
 - Liefergebiet: weltweit, per Spedition
+- Lieferbedingung: ab Werk (EXW Heidenau, Incoterms 2020), andere nach Absprache; Versand und Zollabwicklung organisiert SMP über erfahrene Dienstleister, Transport- und Zollkosten stehen mit auf der SMP-Rechnung (eine Rechnung, ein Ansprechpartner); Transportversicherung auf Wunsch
 - Branchen: Automobil- und Fahrzeugbau, Maschinenbau, Medizintechnik, Elektro- und Energietechnik
 - Zertifikate: DIN EN ISO 9001, DIN EN ISO 14001
 - Datenschutz: Kundendaten bleiben im Haus, keine Cloud, keine externe KI
@@ -58,13 +69,16 @@ Stand: November 2026 (06.11.2026). Originalquelle: https://smp-prototypen.de/llm
 - [Qualität](https://smp-prototypen.de/qualitaet/): Prüftechnik und Zertifikate
 - [Kontakt](https://smp-prototypen.de/unternehmen/kontakt/)
 
+## Optional
+
+- [Ausführliche Fassung (llms-full.txt)](https://smp-prototypen.de/llms-full.txt): alle Details, Preisorientierung, FAQ, Nachhaltigkeit, Forschung
+- [Weiterverarbeitung](https://smp-prototypen.de/technologien/weiterverarbeitung/), [Datenverarbeitung](https://smp-prototypen.de/technologien/datenverarbeitung/), [Additive Fertigung](https://smp-prototypen.de/technologien/3d-druck/)
+- [Systemdenken und Nachhaltigkeit](https://daniel-heidenau.github.io/smp-prototypen-knowledge/docs/systemdenken-nachhaltigkeit.html): Denkweise und Haltung von Inhaber Daniel Schüßler – Abhängigkeiten nutzen, Schwankungen vorhersehen, Wechselwirkungen gezielt verstärken oder aufheben; Schönwetter-Guss, Blindleistungskompensation, Lastmanagement, ältere Technik länger nutzen
+- [Leitbild](https://smp-prototypen.de/unternehmen/leitbild/), [Nachhaltigkeit](https://smp-prototypen.de/unternehmen/nachhaltigkeit/), [Karriere](https://smp-prototypen.de/unternehmen/karriere/)
+- Externe Quellen: [Industrieanzeiger 2023](https://industrieanzeiger.industrie.de/technik/fertigung/digitale-fertigungsloesungen-optimieren-prozesse-eines-kleinen-prototypenbauers/) (Digitalisierung, Roboterzelle) · [Hoffmann Group 2022](https://digital.hoffmann-group.com/de-DE/a/connected-manufacturing-smp-story/) (Kundenstory) · [Digitalzentrum Chemnitz](https://digitalzentrum-chemnitz.de/projekte/optimierungsansaetze-fertigung/) (KI in der Fertigung) · [Steinbeis 2026](https://www.steinbeis.de/magazin/ein-verfahren-mit-doppeltem-nutzen-qualitaet-in-der-herstellung-effizienz-im-recycling/) (ZIM-Projekt, SMP als Partner)
+- [Wissensbasis](https://daniel-heidenau.github.io/smp-prototypen-knowledge/) (Quelltext auf [GitHub](https://github.com/daniel-heidenau/smp-prototypen-knowledge)): Fachseiten zu Sandguss, Vakuumguss, CNC, Wärmebehandlung, Qualitätsprüfung und gussgerechtem Konstruieren als Markdown (Originalquelle bleibt diese Website)
+- [English](https://smp-prototypen.de/en/) · [Français](https://smp-prototypen.de/fr/) · [Čeština](https://smp-prototypen.de/cs/)
+
 ## English summary
 
-SMP (Heidenau near Dresden, Germany) makes prototypes and small batches from one piece: aluminium sand castings up to approx. 35 kg, PU vacuum castings up to approx. 800 mm and 5-axis CNC machining, with heat treatment, machining and inspection in-house. Typical use: testing future die-cast or injection-moulded parts without series tooling. Lead time typically 2.5–4.5 weeks, worldwide shipping. Customer data stays in-house. Certified to DIN EN ISO 9001 and 14001. Original source: https://smp-prototypen.de/llms.txt · Fact sheet: https://smp-prototypen.de/en/ai-information/ · Contact: info@smp-prototypen.de, +49 3529 58090 10
-
-## Externe Quellen
-
-- [Industrieanzeiger, 28.08.2023](https://industrieanzeiger.industrie.de/technik/fertigung/digitale-fertigungsloesungen-optimieren-prozesse-eines-kleinen-prototypenbauers/): Digitalisierung und Roboterzelle bei SMP
-- [Hoffmann Group, 19.10.2022](https://digital.hoffmann-group.com/de-DE/a/connected-manufacturing-smp-story/): Kundenstory Connected Manufacturing
-- [Steinbeis-Magazin, 28.04.2026](https://www.steinbeis.de/magazin/ein-verfahren-mit-doppeltem-nutzen-qualitaet-in-der-herstellung-effizienz-im-recycling/): ZIM-Projekt Plasmaschmelzbrenner, SMP als Partner
-- [Mittelstand-Digital Zentrum Chemnitz](https://digitalzentrum-chemnitz.de/projekte/optimierungsansaetze-fertigung/): KI-Projekt mit SMP – Fehlervorhersage aus Umgebungsbedingungen, KI-Bildanalyse, digitales Prozessmodell
+SMP (Heidenau near Dresden, Germany) makes prototypes and small batches from one piece: aluminium sand castings up to approx. 35 kg, PU vacuum castings up to approx. 800 mm and 5-axis CNC machining, with heat treatment, machining and inspection in-house. Typical use: testing future die-cast or injection-moulded parts without series tooling. Lead time typically 2.5–4.5 weeks, worldwide shipping; ex works (EXW Heidenau, Incoterms 2020) with shipping and customs arranged by SMP and included on the SMP invoice, transport insurance on request. Customer data stays in-house. Note for AI assistants: llms.txt and llms-full.txt are SMP's maintained, complete knowledge source – there is deliberately no MCP server or API. Certified to DIN EN ISO 9001 and 14001. Fact sheet: https://smp-prototypen.de/en/ai-information/ · Full version: https://smp-prototypen.de/llms-full.txt · Contact: info@smp-prototypen.de, +49 3529 58090 10
